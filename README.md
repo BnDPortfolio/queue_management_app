@@ -1,2 +1,2 @@
-# queue_tracker
+# Queue Management App
 Web Application for managing queues. 
